@@ -1,0 +1,74 @@
+[
+{
+    "model": "api.planeta",
+    "pk": 1,
+    "fields": {
+        "nombre": "Alderaan",
+        "diametro": 12500,
+        "poblacion": 20000000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 2,
+    "fields": {
+        "nombre": "Tierra",
+        "diametro": 140000,
+        "poblacion": 270000000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 3,
+    "fields": {
+        "nombre": "Yavin IV",
+        "diametro": 10200,
+        "poblacion": 1000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 4,
+    "fields": {
+        "nombre": "Geonosis",
+        "diametro": 20100,
+        "poblacion": 100000000000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 5,
+    "fields": {
+        "nombre": "Toydaria",
+        "diametro": 15000,
+        "poblacion": 450000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 6,
+    "fields": {
+        "nombre": "Saleucami",
+        "diametro": 3000,
+        "poblacion": 1300
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 7,
+    "fields": {
+        "nombre": "Mygeeto",
+        "diametro": 5029,
+        "poblacion": 90000
+    }
+},
+{
+    "model": "api.planeta",
+    "pk": 8,
+    "fields": {
+        "nombre": "Malastare",
+        "diametro": 430000,
+        "poblacion": 30000000
+    }
+}
+]

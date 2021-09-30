@@ -1,0 +1,105 @@
+[
+{
+    "model": "api.pelicula",
+    "pk": 1,
+    "fields": {
+        "titulo": "La Amenaza Fantasma",
+        "texto_apertura": "La República Galáctica está\r\nsumida en disturbios. Hay\r\nprotestas contra la tributación\r\nde las rutas comerciales a\r\nsistemas estelares.\r\n\r\nEsperando resolver el problema\r\ncon un bloqueo de mortíferos\r\ncruceros, la avariciosa\r\nFederación de Comercio ha\r\ndetenido todos los envios al\r\npequeño planeta de Naboo.\r\n\r\nMientras el Congreso de la\r\nRepública debate sin fin\r\nesta alarmante cadena de\r\nacontecimientos, el Canciller\r\nSupremo ha despachado en\r\nsecreto a dos Caballeros Jedi,\r\nlos guardianes de la paz y la\r\njusticia en la galaxia, a resolver\r\nel conflicto…",
+        "director": "George Lucas",
+        "productor": "Rick McCallum",
+        "planetas": [
+            1,
+            4
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 2,
+    "fields": {
+        "titulo": "El Ataque de los Clones",
+        "texto_apertura": "Hay inquietud en el Senado\r\nGaláctico. Varios miles de\r\nsistemas solares han declarado\r\nsus intenciones de abandonar \r\nla República.\r\n\r\nEl movimiento separatista,\r\nbajo el liderazgo del misterioso\r\nConde Dooku, ha hecho difícil\r\nque el número limitado de \r\nCaballeros Jedi mantengan la \r\npaz y el orden en la galaxia.\r\n\r\nLa Senadora Amidala, la ex\r\nreina de Naboo, va a regresar \r\nal Senado Galáctico para \r\nvotar sobre la cuestión crítica \r\nde formar un EJÉRCITO DE \r\nLA REPÚBLICA para ayudar a \r\nlos abrumados Jedi…",
+        "director": "George Lucas",
+        "productor": "Rick McCallum",
+        "planetas": [
+            1,
+            6,
+            2
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 3,
+    "fields": {
+        "titulo": "La Venganza de los Sith",
+        "texto_apertura": "¡Guerra! La República se\r\ndesmorona bajo los ataques del\r\ndespiadado Conde Dooku, señor \r\nde los Sith. Hay héroes en \r\nambos bandos. El mal está por \r\ndoquier. \r\n\r\nEn una maniobra audaz, el\r\ndiabólico líder droide, general\r\nGrievous, ha entrado a la\r\ncapital de la República y\r\nsecuestrado al canciller\r\nPalpatine, líder del Senado \r\nGaláctico.\r\n\r\nMientras el Ejército Droide\r\nSeparatista trata de huir de la\r\nasediada capital con su\r\nvalioso rehén, dos caballeros \r\nJedi dirigen una misión\r\ndesesperada para rescatar\r\nal canciller cautivo…",
+        "director": "George Lucas",
+        "productor": "Rick McCallum",
+        "planetas": [
+            4,
+            5,
+            3
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 4,
+    "fields": {
+        "titulo": "Una Nueva Esperanza",
+        "texto_apertura": "Son tiempos de guerra civil.\r\nNaves rebeldes han atacado \r\ndesde una base secreta y \r\nhan obtenido su primera\r\nvictoria contra el malvado\r\nImperio Galáctico.\r\n\r\nDurante la batalla, espías\r\nrebeldes lograron robar los \r\nplanos secretos del arma \r\nmás extrema del Imperio,\r\nla ESTRELLA DE LA \r\nMUERTE, una estación \r\nespacial blindada con \r\nsuficiente potencia para \r\ndestruir un planeta entero.\r\n\r\nPerseguida por los \r\nsiniestros agentes del \r\nImperio, la Princesa Leia \r\nse dirige velozmente a casa \r\nen su nave espacial, \r\nmientras resguarda los \r\nplanos que pueden salvar \r\na su pueblo y restaurar la \r\nlibertad en la galaxia…",
+        "director": "George Lucas",
+        "productor": "Gary Kurtz, Rick McCallum",
+        "planetas": [
+            4,
+            7,
+            3
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 5,
+    "fields": {
+        "titulo": "El Imperio Contraataca",
+        "texto_apertura": "Es una época oscura para la \r\nRebelión. Aunque la Estrella \r\nde la Muerte ha sido \r\ndestruida, las tropas \r\nimperiales han obligado a las\r\nfuerzas rebeldes a dejar sus\r\nsus bases secretas y las han\r\nperseguido a través de la \r\ngalaxia.\r\n\r\nEn una fuga de la temida Flota\r\nImperial, un grupo de guerreros \r\nrebeldes liderado por Luke \r\nSkywalker ha establecido una \r\nnueva base secreta en la\r\nremota tierra congelada de \r\nHoth.\r\n\r\nDarth Vader, Señor del mal,\r\nobsesionado con encontrar \r\nal joven Skywalker, ha \r\ndespachado al lejano espacio \r\nmiles de sondas a control\r\nremoto…",
+        "director": "Irvin Kershner",
+        "productor": "Gary Kurtz, Rick McCallum",
+        "planetas": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 6,
+    "fields": {
+        "titulo": "El Regreso del Jedi",
+        "texto_apertura": "Luke Skywalker ha regresado \r\na Tatooine, su planeta de \r\norigen, en un intento de\r\nrescatar a su amigo Han \r\nSolo de las garras del vil \r\nJabba.\r\n\r\nLuke no sabe que el IMPERIO \r\nGALÁCTICO ha iniciado\r\nsecretamente la construcción\r\nde una nueva estación\r\nespacial blindada, incluso \r\nmás poderosa que la primera \r\ny temida Estrella de la Muerte.\r\n\r\nUna vez terminada, esta arma \r\nextrema augurará una muerte \r\nsegura para el pequeño grupo \r\nde rebeldes que lucha por\r\nrestaurar la libertad en la \r\ngalaxia…",
+        "director": "Richard Marquand",
+        "productor": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "planetas": [
+            2,
+            5,
+            3
+        ]
+    }
+},
+{
+    "model": "api.pelicula",
+    "pk": 7,
+    "fields": {
+        "titulo": "El Despertar de la Fuerza",
+        "texto_apertura": "Luke Skywalker ha desaparecido.\r\nEn su ausencia, la siniestra\r\nPRIMERA ORDEN ha surgido de\r\nlas cenizas del Imperio y no\r\ndescansará hasta que Skywalker,\r\nel último Jedi, haya sido\r\ndestruido.\r\n\r\nCon el apoyo de la REPÚBLICA,\r\nla General Leia Organa dirige\r\nuna valiente RESISTENCIA.\r\nDesesperadamente busca\r\na su hermano Luke con el fin\r\nde obtener su ayuda para\r\nrestaurar la paz y la justicia\r\nen la galaxia.\r\n\r\nLeia ha enviado a su piloto\r\nmás audaz en una misión secreta\r\na Jakku, donde un viejo aliado\r\nha descubierto una pista\r\ndel paradero de Luke....",
+        "director": "J. J. Abrams",
+        "productor": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+        "planetas": [
+            1,
+            8,
+            7
+        ]
+    }
+}
+]

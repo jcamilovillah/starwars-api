@@ -1,0 +1,108 @@
+[
+{
+    "model": "api.personaje",
+    "pk": 1,
+    "fields": {
+        "nombre": "Luke Skywalker",
+        "especie": "Humano",
+        "peliculas": [
+            1
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 2,
+    "fields": {
+        "nombre": "R2-D2",
+        "especie": "Androide",
+        "peliculas": [
+            1
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 3,
+    "fields": {
+        "nombre": "Darth Vader",
+        "especie": "Humano",
+        "peliculas": [
+            2,
+            6
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 4,
+    "fields": {
+        "nombre": "Chewbacca",
+        "especie": "Wookiee",
+        "peliculas": [
+            4,
+            5
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 5,
+    "fields": {
+        "nombre": "Obi-Wan Kenobi",
+        "especie": "Humano",
+        "peliculas": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 6,
+    "fields": {
+        "nombre": "Jabba Desilijic Tiure",
+        "especie": "Hutt",
+        "peliculas": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 7,
+    "fields": {
+        "nombre": "Yoda",
+        "especie": "Especie Yoda",
+        "peliculas": [
+            1,
+            6,
+            7
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 8,
+    "fields": {
+        "nombre": "Rugor Nass",
+        "especie": "Gungan",
+        "peliculas": [
+            3
+        ]
+    }
+},
+{
+    "model": "api.personaje",
+    "pk": 9,
+    "fields": {
+        "nombre": "Greedo",
+        "especie": "Rodian",
+        "peliculas": [
+            5,
+            6
+        ]
+    }
+}
+]
