@@ -17,6 +17,9 @@ pip install -r requirements.txt
 
 # Iniciar la base de datos y cargar los fixtures
 python manage.py migrate
+
+#Cargar los fixtures a la base de datos
+python manage.py loaddata fixtures/*
 ```
 
 Una vez esté todo hecho, arranca el servidor
