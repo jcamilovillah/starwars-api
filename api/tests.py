@@ -62,14 +62,6 @@ class PlanetaTestCase(APITestCase):
         self.assertEqual(response.status_code, status.HTTP_201_CREATED)
 
 
-    def test_planetas_retrieve(self):
-        """Obtiene elementos por filtros en la URL
-        """
-        response = self.client.post(self.url_planetas, self.data_planetas, format='json')
-        response = self.client.get(self.url_planetas, kwargs={'diametro': 10000})
-        self.assertEqual(response.data["name"], 'Testworld')
-
-
 class PeliculaTestCase(APITestCase):
 
 
