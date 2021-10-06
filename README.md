@@ -1,6 +1,5 @@
 # Star Wars API
 
-Prueba técnica para [Gearplug](https://gearplug.io/)
 
 API que permite ver información relacionada a la serie Star Wars, como personajes, planetas y películas.
 
